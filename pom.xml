@@ -79,7 +79,6 @@
             <scope>provided</scope>
         </dependency>
 
-<<<<<<< HEAD
 	</dependencies>
 	
 	<!-- <distributionManagement>
@@ -114,39 +113,5 @@
             </plugin>
 		</plugins>
 	</build>
-=======
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>jstl</artifactId>
-            <version>1.2</version>
-        </dependency>
-
-        <!-- Log4j -->
-        <dependency>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-            <version>1.2.3</version>
-        </dependency>
-    </dependencies>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version> <!-- Updated compiler plugin version -->
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-war-plugin</artifactId>
-                <version>3.3.1</version> <!-- Updated maven-war-plugin version -->
-            </plugin>
-        </plugins>
-    </build>
->>>>>>> 46f667fad08b22ea9e4c5c5f9a71032695cd2d7b
 
 </project>
