@@ -8,13 +8,13 @@
 	<version>1.0</version>
 	
 	<name>Maven Web Application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>com.devops.training</url>
 	
 	<description>Maven Web Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>maven web app</name>
+		<url>com.devops.training/</url>
 	</organization>
 
 	<properties>
